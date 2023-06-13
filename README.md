@@ -35,9 +35,9 @@ Please feel free to pull requests or open an issue to add papers.
 
 ### Type of Multimodal Dialogue Models
 
-| Type        | `UIUO`                             | `MIUO`                               | `MIMO`                                 | `Other`     |
-|:----------- |:----------------------------------:|:------------------------------------:|:--------------------------------------:|:-----------:|
-| Explanation | Unimodal Input and Unimodal Output | Multimodal Input and Unimodal Output | Multimodal Input and Multimodal Output | other types |
+| Type        | `UIUO`                               | `MIUO`                                 | `MIMO`                                   | `Other`         |
+|:----------- |:------------------------------------:|:--------------------------------------:|:----------------------------------------:|:---------------:|
+| Explanation |  Unimodal Input and Unimodal Output  |  Multimodal Input and Unimodal Output  |  Multimodal Input and Multimodal Output  |   other types   |
 
 
 
