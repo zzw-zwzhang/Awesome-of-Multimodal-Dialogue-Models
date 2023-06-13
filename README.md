@@ -46,8 +46,69 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 []() | NeurIPS | `UIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition.svg)    |
+[]() | NeurIPS | `UIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition.svg)    |
+[]() | NeurIPS | `UIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition.svg)    |
 
 
 
 
+### 2022
+
+| Title    | Venue    | Type     | Code     | Star     |
+|:-------- |:--------:|:--------:|:--------:|:--------:|
+[]() | NeurIPS | `UIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition.svg)    |
+[]() | NeurIPS | `UIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition.svg)    |
+[]() | NeurIPS | `UIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition.svg)    |
+
+
+
+
+### 2021
+
+| Title    | Venue    | Type     | Code     | Star     |
+|:-------- |:--------:|:--------:|:--------:|:--------:|
+[]() | NeurIPS | `UIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition.svg)    |
+[]() | NeurIPS | `UIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition.svg)    |
+[]() | NeurIPS | `UIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition.svg)    |
+
+
+
+
+### 2020
+
+| Title    | Venue    | Type     | Code     | Star     |
+|:-------- |:--------:|:--------:|:--------:|:--------:|
+[]() | NeurIPS | `UIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition.svg)    |
+[]() | NeurIPS | `UIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition.svg)    |
+[]() | NeurIPS | `UIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition.svg)    |
+
+
+
+
+### Previous Venues
+
+| Title    | Venue    | Type     | Code     | Star     |
+|:-------- |:--------:|:--------:|:--------:|:--------:|
+[]() | NeurIPS | `UIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition.svg)    |
+[]() | NeurIPS | `UIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition.svg)    |
+[]() | NeurIPS | `UIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition.svg)    |
+
+
+
+
+### arXiv
+
+| Title    | Date     | Type     | Code     | Star     |
+|:-------- |:--------:|:--------:|:--------:|:--------:|
+[]() | 2023.06.13 | `UIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition.svg)    |
+
+
+
+## Awesome Surveys
+- []() and []()
+
+
+
+## Awesome Blogs
+- []() and []()
 
