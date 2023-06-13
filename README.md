@@ -45,7 +45,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-[]() | NeurIPS | `UIUO`     | [PyTorch(Author)]()   | ![Github stars](https://github.com/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition)    |
+[]() | NeurIPS | `UIUO`     | [PyTorch(Author)]()   | ![Github stars]([https://github.com/zzw-zwzhang](https://img.shields.io/github/stars/Awesome-of-Long-Tailed-Recognition.svg)    |
 
 
 
