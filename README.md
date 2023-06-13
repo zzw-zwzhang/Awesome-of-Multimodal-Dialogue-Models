@@ -37,7 +37,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Type        | `UIUO`                               | `MIUO`                                 | `MIMO`                                   | `Other`         |
 |:----------- |:------------------------------------:|:--------------------------------------:|:----------------------------------------:|:---------------:|
-| Explanation |  Unimodal Input and Unimodal Output  |  Multimodal Input and Unimodal Output  |  Multimodal Input and Multimodal Output  |   other types   |
+| Explanation |  Unimodal Input & Unimodal Output  |  Multimodal Input & Unimodal Output  |  Multimodal Input & Multimodal Output  |   other types   |
 
 
 
