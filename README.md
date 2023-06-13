@@ -45,7 +45,7 @@ Please feel free to pull requests or open an issue to add papers.
 [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/pdf/2303.04671.pdf) | 2023.03.08 | `MIMO`     | [PyTorch(Author)](https://github.com/microsoft/TaskMatrix)   | ![Github stars](https://img.shields.io/github/stars/microsoft/TaskMatrix.svg)    |
 [Generating Images with Multimodal Language Models](https://arxiv.org/pdf/2305.17216.pdf) | 2023.05.26 | `MIMO`     | [PyTorch(Author)](https://github.com/kohjingyu/gill)   | ![Github stars](https://img.shields.io/github/stars/kohjingyu/gill.svg)    |
 [Grounding Language Models to Images for Multimodal Inputs and Outputs](http://arxiv.org/abs/2301.13823.pdf) | 2023.06.13 | `MIMO`     | [PyTorch(Author)](https://github.com/kohjingyu/fromage)   | ![Github stars](https://img.shields.io/github/stars/kohjingyu/fromage.svg)    |
-[]() | 2023.06.13 | `UIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition.svg)    |
+[GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction](https://arxiv.org/abs/2305.18752.pdf) | 2023.05.30 | `MIMO`     | [PyTorch(Author)](https://github.com/StevenGrove/GPT4Tools)   | ![Github stars](https://img.shields.io/github/stars/StevenGrove/GPT4Tools.svg)    |
 []() | 2023.06.13 | `UIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition.svg)    |
 []() | 2023.06.13 | `UIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition.svg)    |
 
