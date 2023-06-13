@@ -43,7 +43,7 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Date     | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/pdf/2303.04671.pdf) | 2023.03.08 | `MIMO`     | [PyTorch(Author)](https://github.com/microsoft/TaskMatrix)   | ![Github stars](https://img.shields.io/github/stars/microsoft/TaskMatrix.svg)    |
-[]() | 2023.06.13 | `UIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition.svg)    |
+[Generating Images with Multimodal Language Models](https://arxiv.org/pdf/2305.17216.pdf) | 2023.05.26 | `UIUO`     | [PyTorch(Author)](https://github.com/kohjingyu/gill)   | ![Github stars](https://img.shields.io/github/stars/kohjingyu/gill.svg)    |
 []() | 2023.06.13 | `UIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition.svg)    |
 
 
