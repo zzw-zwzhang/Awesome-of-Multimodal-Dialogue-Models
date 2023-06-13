@@ -16,9 +16,9 @@ Please feel free to pull requests or open an issue to add papers.
 
 ## Table of Contents
 
-- [Type of Long-tailed Recognition](#type-of-long-tailed-recognition)
+- [Type of Multimodal Dialogue Models](#type-of-multimodal-dialogue-models)
 
-- [Long-tailed Recognition](#Long-tailed-Recognition)
+- [Multimodal Dialogue Models](#Multimodal-Dialogue-Models)
   - [2021 Venues](#2023)
   - [2020 Venues](#2022)
   - [2019 Venues](#2021)
@@ -35,8 +35,8 @@ Please feel free to pull requests or open an issue to add papers.
 
 ### Type of Multimodal Dialogue Models
 
-| Type        | `UIUO`          | `MIUO`           | `MIMO`                 | `Other`     |
-|:----------- |:-------------:|:--------------:|:----------------------:|:---------------------:|:-----------:|
+| Type        | `UIUO`                             | `MIUO`                               | `MIMO`                                 | `Other`     |
+|:----------- |:----------------------------------:|:------------------------------------:|:--------------------------------------:|:-----------:|
 | Explanation | Unimodal Input and Unimodal Output | Multimodal Input and Unimodal Output | Multimodal Input and Multimodal Output | other types |
 
 
