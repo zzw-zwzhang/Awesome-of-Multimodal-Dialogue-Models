@@ -45,7 +45,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-[]() | NeurIPS | `UIUO`     | [PyTorch(Author)]()   |     |
+[]() | NeurIPS | `UIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/DWCTOD/interview.svg)    |
 
 
 
