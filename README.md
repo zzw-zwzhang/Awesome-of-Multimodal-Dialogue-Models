@@ -67,7 +67,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-[Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2204.14198.pdf) | NeurIPS | `MIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition.svg)    |
+[Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2204.14198.pdf) | NeurIPS | `MIUO`     | [PyTorch(Author)](https://github.com/zzw-zwzhang/Awesome-of-Multimodal-Dialogue-Models)   | ![Github stars](https://img.shields.io/github/stars/zzw-zwzhang/Awesome-of-Multimodal-Dialogue-Models.svg)    |
 []() | NeurIPS | `UIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition.svg)    |
 []() | NeurIPS | `UIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition.svg)    |
 
