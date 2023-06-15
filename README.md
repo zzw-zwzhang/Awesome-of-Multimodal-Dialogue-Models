@@ -42,7 +42,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Date     | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
-[Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation]() | 2023.06.15 | `UIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition.svg)    |
+[Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation]() | 2023.06.15 | `UIUO`     | [PyTorch(Author)](https://github.com/matrix-alpha/Accountable-Textual-Visual-Chat)   | ![Github stars](https://img.shields.io/github/stars/matrix-alpha/Accountable-Textual-Visual-Chat.svg)    |
 [Grounding Language Models to Images for Multimodal Inputs and Outputs](http://arxiv.org/abs/2301.13823.pdf) | 2023.06.13 | `MIMO`     | [PyTorch(Author)](https://github.com/kohjingyu/fromage)   | ![Github stars](https://img.shields.io/github/stars/kohjingyu/fromage.svg)    |
 [GPT4Tools: Teaching Large Language Model to Use Tools via Self-instruction](https://arxiv.org/abs/2305.18752.pdf) | 2023.05.30 | `MIMO`     | [PyTorch(Author)](https://github.com/StevenGrove/GPT4Tools)   | ![Github stars](https://img.shields.io/github/stars/StevenGrove/GPT4Tools.svg)    |
 [Generating Images with Multimodal Language Models](https://arxiv.org/pdf/2305.17216.pdf) | 2023.05.26 | `MIMO`     | [PyTorch(Author)](https://github.com/kohjingyu/gill)   | ![Github stars](https://img.shields.io/github/stars/kohjingyu/gill.svg)    |
