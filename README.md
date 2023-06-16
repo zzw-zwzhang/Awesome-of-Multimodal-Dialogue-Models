@@ -2,7 +2,7 @@
 
 ![](https://img.shields.io/badge/Number-60-green)
 
-A curated list of long-tailed recognition and related resources.
+A curated list of multimodal dialogue models and related resources.
 
 Please feel free to pull requests or open an issue to add papers.
 
