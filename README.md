@@ -53,9 +53,11 @@ Please feel free to pull requests or open an issue to add papers.
 [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485.pdf) | 2023.05.17 | `MIUO`     | [PyTorch(Author)](https://github.com/haotian-liu/LLaVA)   | ![Github stars](https://img.shields.io/github/stars/haotian-liu/LLaVA.svg)    |
 [VideoChat: Chat-Centric Video Understanding](https://arxiv.org/abs/2305.06355.pdf) | 2023.05.10 | `MIUO`     | [PyTorch(Author)](https://github.com/OpenGVLab/Ask-Anything)   | ![Github stars](https://img.shields.io/github/stars/OpenGVLab/Ask-Anything.svg)    |
 [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/pdf/2303.04671.pdf) | 2023.03.08 | `MIMO`     | [PyTorch(Author)](https://github.com/microsoft/TaskMatrix)   | ![Github stars](https://img.shields.io/github/stars/microsoft/TaskMatrix.svg)    |
-[Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models](https://arxiv.org/abs//2306.05424) | 2023.06.08 | `MIUO`     | [PyTorch(Author)](https://github.com/mbzuai-oryx/Video-ChatGPT)   | ![Github stars](https://img.shields.io/github/stars/mbzuai-oryx/Video-ChatGPT.svg)    |
-[]() | 2023.06.13 | `MIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition.svg)    |
-[]() | 2023.06.13 | `MIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition.svg)    |
+[Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models](https://arxiv.org/abs//2306.05424.pdf) | 2023.06.08 | `MIUO`     | [PyTorch(Author)](https://github.com/mbzuai-oryx/Video-ChatGPT)   | ![Github stars](https://img.shields.io/github/stars/mbzuai-oryx/Video-ChatGPT.svg)    |
+[EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought](https://arxiv.org/abs/2305.15021.pdf) | 2023.05.24 | `MIUO`     | [PyTorch(Author)](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch)   | ![Github stars](https://img.shields.io/github/stars/EmbodiedGPT/EmbodiedGPT_Pytorch.svg)    |
+[]() | 2023.06.13 | `MIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/.svg)    |
+[]() | 2023.06.13 | `MIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/.svg)    |
+[]() | 2023.06.13 | `MIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/.svg)    |
 
 
 
