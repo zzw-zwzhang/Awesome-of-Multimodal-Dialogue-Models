@@ -55,7 +55,7 @@ Please feel free to pull requests or open an issue to add papers.
 [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485.pdf) | 2023.05.17 | `MIUO`     | [PyTorch(Author)](https://github.com/haotian-liu/LLaVA)   | ![Github stars](https://img.shields.io/github/stars/haotian-liu/LLaVA.svg)    |
 [VideoChat: Chat-Centric Video Understanding](https://arxiv.org/abs/2305.06355.pdf) | 2023.05.10 | `MIUO`     | [PyTorch(Author)](https://github.com/OpenGVLab/Ask-Anything)   | ![Github stars](https://img.shields.io/github/stars/OpenGVLab/Ask-Anything.svg)    |
 [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/pdf/2303.04671.pdf) | 2023.03.08 | `MIMO`     | [PyTorch(Author)](https://github.com/microsoft/TaskMatrix)   | ![Github stars](https://img.shields.io/github/stars/microsoft/TaskMatrix.svg)    |
-[]() | 2023.06.13 | `MIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/.svg)    |
+[GPT-4 Technical Report](https://arxiv.org/abs/2303.08774.pdf) | 2023.03.27 | `MIMO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/.svg)    |
 []() | 2023.06.13 | `MIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/.svg)    |
 []() | 2023.06.13 | `MIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/.svg)    |
 
