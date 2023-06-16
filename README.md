@@ -7,7 +7,7 @@ A curated list of long-tailed recognition and related resources.
 Please feel free to pull requests or open an issue to add papers.
 
 
-### :high_brightness: Updated 2023-06-13
+### :high_brightness: Updated 2023-06-17
 
 ---
 
