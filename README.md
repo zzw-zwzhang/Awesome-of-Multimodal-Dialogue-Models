@@ -32,9 +32,9 @@ Please feel free to pull requests or open an issue to add papers.
 
 ### Type of Multimodal Dialogue Models
 
-| Type        | `UIUO`                               | `MIUO`                                 | `MIMO`                                   | `Other`         |
-|:----------- |:------------------------------------:|:--------------------------------------:|:----------------------------------------:|:---------------:|
-| Explanation |  Unimodal Input & Unimodal Output  |  Multimodal Input & Unimodal Output  |  Multimodal Input & Multimodal Output  |   other types   |
+| Type        | `UIUO`                               | `MIUO`                                 | `MIMO`                                   | `L2V`                  | `V2L`                 | `Other`         |
+|:----------- |:------------------------------------:|:--------------------------------------:|:----------------------------------------:|:----------------------:|:---------------------:|:---------------:|
+| Explanation |  Unimodal Input & Unimodal Output    |  Multimodal Input & Unimodal Output    |  Multimodal Input & Multimodal Output    |  Language to Vision    |  Vision to Language   |   other types   |
 
 
 
