@@ -125,7 +125,9 @@ Please feel free to pull requests or open an issue to add papers.
 
 
 ## Awesome Surveys
-- [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models) []()
+- [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
+- [awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml)
+- [Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research)
 
 
 
