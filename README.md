@@ -74,7 +74,7 @@ Please feel free to pull requests or open an issue to add papers.
 | Title    | Venue    | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
 [InstructPix2Pix Learning to Follow Image Editing Instructions](https://arxiv.org/abs/2211.09800.pdf) | CVPR-Highlight | `MIUO`     | [PyTorch(Author)](https://github.com/timothybrooks/instruct-pix2pix)   | ![Github stars](https://img.shields.io/github/stars/timothybrooks/instruct-pix2pix.svg)    |
-[BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/pdf/2301.12597.pdf) | ICML | `V2L`     | [PyTorch(Author)](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)   | ![Github stars](https://img.shields.io/github/stars/salesforce/LAVIS/tree/main/projects/blip2.svg)    |
+[BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/pdf/2301.12597.pdf) | ICML | `V2L`     | [PyTorch(Author)](https://github.com/salesforce/LAVIS/tree/main/projects/blip2)   | ![Github stars](https://img.shields.io/github/stars/salesforce/LAVIS.svg)    |
 []() | NeurIPS | `UIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/zzw-zwzhang/Awesome-of-Long-Tailed-Recognition.svg)    |
 
 
