@@ -131,6 +131,7 @@ Please feel free to pull requests or open an issue to add papers.
 - [awesome-multimodal-ml](https://github.com/pliang279/awesome-multimodal-ml) ![Github stars](https://img.shields.io/github/stars/pliang279/awesome-multimodal-ml.svg)
 - [Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research) ![Github stars](https://img.shields.io/github/stars/Eurus-Holmes/Awesome-Multimodal-Research.svg)
 - [Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image) ![Github stars](https://img.shields.io/github/stars/Yutong-Zhou-cv/Awesome-Text-to-Image.svg)
+- [Awesome-Multimodal-LLM](https://github.com/vincentlux/Awesome-Multimodal-LLM) ![Github stars](https://img.shields.io/github/stars/vincentlux/Awesome-Multimodal-LLM.svg)
 
 
 
