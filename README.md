@@ -139,7 +139,7 @@ Please feel free to pull requests or open an issue to add papers.
 - [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) ![Github stars](https://img.shields.io/github/stars/steven2358/awesome-generative-ai.svg)
 - [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) ![Github stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM.svg)
 - [awesome-vision-and-language](https://github.com/sangminwoo/awesome-vision-and-language) ![Github stars](https://img.shields.io/github/stars/sangminwoo/awesome-vision-and-language.svg)
-- []() ![Github stars](https://img.shields.io/github/stars/.svg)
+- [awesome-vision-language-pretraining-papers](https://github.com/yuewang-cuhk/awesome-vision-language-pretraining-papers) ![Github stars](https://img.shields.io/github/stars/yuewang-cuhk/awesome-vision-language-pretraining-papers.svg)
 - []() ![Github stars](https://img.shields.io/github/stars/.svg)
 - []() ![Github stars](https://img.shields.io/github/stars/.svg)
 
