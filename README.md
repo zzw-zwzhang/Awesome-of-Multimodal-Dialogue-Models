@@ -136,7 +136,7 @@ Please feel free to pull requests or open an issue to add papers.
 - [Awesome-Multimodal-Chatbot](https://github.com/zjr2000/Awesome-Multimodal-Chatbot) ![Github stars](https://img.shields.io/github/stars/zjr2000/Awesome-Multimodal-Chatbot.svg)
 - [Awesome-Multimodal-LLM](https://github.com/vincentlux/Awesome-Multimodal-LLM) ![Github stars](https://img.shields.io/github/stars/vincentlux/Awesome-Multimodal-LLM.svg)
 - []() ![Github stars](https://img.shields.io/github/stars/.svg)
-- []() ![Github stars](https://img.shields.io/github/stars/.svg)
+- [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt) ![Github stars](https://img.shields.io/github/stars/LiLittleCat/awesome-free-chatgpt.svg)
 - [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) ![Github stars](https://img.shields.io/github/stars/steven2358/awesome-generative-ai.svg)
 - [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) ![Github stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM.svg)
 
