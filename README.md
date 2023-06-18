@@ -132,9 +132,9 @@ Please feel free to pull requests or open an issue to add papers.
 - [Awesome-Multimodal-Research](https://github.com/Eurus-Holmes/Awesome-Multimodal-Research) ![Github stars](https://img.shields.io/github/stars/Eurus-Holmes/Awesome-Multimodal-Research.svg)
 - [Awesome-Text-to-Image](https://github.com/Yutong-Zhou-cv/Awesome-Text-to-Image) ![Github stars](https://img.shields.io/github/stars/Yutong-Zhou-cv/Awesome-Text-to-Image.svg)
 - [Awesome-Multimodal-LLM](https://github.com/HenryHZY/Awesome-Multimodal-LLM) ![Github stars](https://img.shields.io/github/stars/HenryHZY/Awesome-Multimodal-LLM.svg)
+- [awesome-llm-and-aigc](https://github.com/sjinzh/awesome-llm-and-aigc) ![Github stars](https://img.shields.io/github/stars/sjinzh/awesome-llm-and-aigc.svg)
 - [Awesome-Multimodal-Chatbot](https://github.com/zjr2000/Awesome-Multimodal-Chatbot) ![Github stars](https://img.shields.io/github/stars/zjr2000/Awesome-Multimodal-Chatbot.svg)
 - [Awesome-Multimodal-LLM](https://github.com/vincentlux/Awesome-Multimodal-LLM) ![Github stars](https://img.shields.io/github/stars/vincentlux/Awesome-Multimodal-LLM.svg)
-
 
 
 
