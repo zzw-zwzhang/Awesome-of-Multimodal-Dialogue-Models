@@ -137,7 +137,7 @@ Please feel free to pull requests or open an issue to add papers.
 - [Awesome-Multimodal-LLM](https://github.com/vincentlux/Awesome-Multimodal-LLM) ![Github stars](https://img.shields.io/github/stars/vincentlux/Awesome-Multimodal-LLM.svg)
 - []() ![Github stars](https://img.shields.io/github/stars/.svg)
 - []() ![Github stars](https://img.shields.io/github/stars/.svg)
-- []() ![Github stars](https://img.shields.io/github/stars/.svg)
+- [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) ![Github stars](https://img.shields.io/github/stars/steven2358/awesome-generative-ai.svg)
 - [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) ![Github stars](https://img.shields.io/github/stars/Hannibal046/Awesome-LLM.svg)
 
 
