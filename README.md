@@ -44,6 +44,7 @@ Please feel free to pull requests or open an issue to add papers.
 
 | Title    | Date     | Type     | Code     | Star     |
 |:-------- |:--------:|:--------:|:--------:|:--------:|
+[KOSMOS-2: Grounding Multimodal Large Language Models to the World](https://arxiv.org/pdf/2306.14824.pdf) | 2023.06.27 | `MIUO`     | [PyTorch(Author)](https://github.com/microsoft/unilm/tree/master/kosmos-2)   | ![Github stars](https://img.shields.io/github/stars/microsoft/unilm.svg)    |
 [Macaw-LLM: Multi-Modal Language Modeling with Image, Audio, Video, and Text Integration](https://arxiv.org/pdf/2306.09093.pdf) | 2023.06.15 | `MIUO`     | [PyTorch(Author)](https://github.com/lyuchenyang/Macaw-LLM)   | ![Github stars](https://img.shields.io/github/stars/lyuchenyang/Macaw-LLM.svg)    |
 [Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation](https://arxiv.org/pdf/2303.05983.pdf) | 2023.06.14 | `MIMO`     | [PyTorch(Author)](https://github.com/matrix-alpha/Accountable-Textual-Visual-Chat)   | ![Github stars](https://img.shields.io/github/stars/matrix-alpha/Accountable-Textual-Visual-Chat.svg)    |
 [Grounding Language Models to Images for Multimodal Inputs and Outputs](http://arxiv.org/abs/2301.13823.pdf) | 2023.06.13 | `MIMO`     | [PyTorch(Author)](https://github.com/kohjingyu/fromage)   | ![Github stars](https://img.shields.io/github/stars/kohjingyu/fromage.svg)    |
@@ -64,7 +65,6 @@ Please feel free to pull requests or open an issue to add papers.
 [PandaGPT: One Model To Instruction-Follow Them All](https://arxiv.org/abs/2305.16355.pdf) | 2023.03.25 | `MIUO`     | [PyTorch(Author)](https://github.com/yxuansu/PandaGPT)   | ![Github stars](https://img.shields.io/github/stars/yxuansu/PandaGPT.svg)    |
 [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/pdf/2303.04671.pdf) | 2023.03.08 | `MIMO`     | [PyTorch(Author)](https://github.com/microsoft/TaskMatrix)   | ![Github stars](https://img.shields.io/github/stars/microsoft/TaskMatrix.svg)    |
 [MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action](https://arxiv.org/abs/2303.11381.pdf) | 2023.03.20 | `MIUO`     | [PyTorch(Author)](https://github.com/microsoft/MM-REACT)   | ![Github stars](https://img.shields.io/github/stars/microsoft/MM-REACT.svg)    |
-[KOSMOS-2: Grounding Multimodal Large Language Models to the World](https://arxiv.org/pdf/2306.14824.pdf) | 2023.06.27 | `MIUO`     | [PyTorch(Author)](https://github.com/microsoft/unilm/tree/master/kosmos-2)   | ![Github stars](https://img.shields.io/github/stars/microsoft/unilm/tree/master/kosmos-2.svg)    |
 []() | 2023.06.13 | `MIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/.svg)    |
 []() | 2023.06.13 | `MIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/.svg)    |
 
