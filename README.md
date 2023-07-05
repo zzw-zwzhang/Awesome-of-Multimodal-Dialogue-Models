@@ -58,6 +58,7 @@ Please feel free to pull requests or open an issue to add papers.
 [Controllable Text-to-Image Generation with GPT-4](https://arxiv.org/abs/2305.18583.pdf) | 2023.05.29 | `MIUO`     | [PyTorch(Author)](https://github.com/tianjunz/Control-GPT)   | ![Github stars](https://img.shields.io/github/stars/tianjunz/Control-GPT.svg)    |
 [Mindstorms in Natural Language-Based Societies of Mind]() | 2023.05.26 | `MIMO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/.svg)    |
 [Generating Images with Multimodal Language Models](https://arxiv.org/pdf/2305.17216.pdf) | 2023.05.26 | `MIMO`     | [PyTorch(Author)](https://github.com/kohjingyu/gill)   | ![Github stars](https://img.shields.io/github/stars/kohjingyu/gill.svg)    |
+[HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face](https://arxiv.org/pdf/2303.17580.pdf) | 2023.05.25 | `MIMO`     | [PyTorch(Author)](https://github.com/microsoft/JARVIS)   | ![Github stars](https://img.shields.io/github/stars/microsoft/JARVIS.svg)    |
 [ChatBridge: Bridging Modalities with Large Language Model as a Language Catalyst](https://arxiv.org/abs/2305.16103.pdf) | 2023.05.25 | `MIUO`     | [PyTorch(Author)](https://github.com/joez17/ChatBridge)   | ![Github stars](https://img.shields.io/github/stars/joez17/ChatBridge.svg)    |
 [EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought](https://arxiv.org/abs/2305.15021.pdf) | 2023.05.24 | `MIUO`     | [PyTorch(Author)](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch)   | ![Github stars](https://img.shields.io/github/stars/EmbodiedGPT/EmbodiedGPT_Pytorch.svg)    |
 [LMEye: An Interactive Perception Network for Large Language Models](https://arxiv.org/pdf/2305.03701.pdf) | 2023.05.19 | `MIUO`     | [PyTorch(Author)](https://github.com/YunxinLi/LingCloud)   | ![Github stars](https://img.shields.io/github/stars/YunxinLi/LingCloud.svg)    |
@@ -70,7 +71,8 @@ Please feel free to pull requests or open an issue to add papers.
 [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/pdf/2303.04671.pdf) | 2023.03.08 | `MIMO`     | [PyTorch(Author)](https://github.com/microsoft/TaskMatrix)   | ![Github stars](https://img.shields.io/github/stars/microsoft/TaskMatrix.svg)    |
 [MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action](https://arxiv.org/abs/2303.11381.pdf) | 2023.03.20 | `MIUO`     | [PyTorch(Author)](https://github.com/microsoft/MM-REACT)   | ![Github stars](https://img.shields.io/github/stars/microsoft/MM-REACT.svg)    |
 []() | 2023.06.13 | `MIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/.svg)    |
-
+[]() | 2023.06.13 | `MIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/.svg)    |
+[]() | 2023.06.13 | `MIUO`     | [PyTorch(Author)]()   | ![Github stars](https://img.shields.io/github/stars/.svg)    |
 
 
 
